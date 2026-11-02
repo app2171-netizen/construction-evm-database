@@ -1,0 +1,61 @@
+activity_id,wbs_id,activity_name,trade,baseline_start,baseline_finish,budget
+P01-A01,P01-1,Mobilization & MPT,General,2025-10,2026-01,1668000.0
+P01-A02,P01-1,Site management,General,2025-10,2027-05,2147000.0
+P01-A03,P01-2,Cofferdams & dewatering,Civil,2025-12,2026-03,3262000.0
+P01-A04,P01-2,Pier repairs,Concrete,2026-02,2026-07,4344000.0
+P01-A05,P01-2,Abutment reconstruction,Concrete,2026-03,2026-06,3941000.0
+P01-A06,P01-3,Steel girder replacement,Steel,2026-05,2026-08,8201000.0
+P01-A07,P01-3,Bearing replacement,Steel,2026-06,2026-10,2361000.0
+P01-A08,P01-3,Deck replacement,Concrete,2026-07,2026-11,6950000.0
+P01-A09,P01-4,Lighting & ITS,Electrical,2026-08,2027-01,3367000.0
+P01-A10,P01-4,Drainage,Civil,2026-08,2026-12,2357000.0
+P01-A11,P01-4,Paving & striping,Paving,2026-12,2027-03,2624000.0
+P01-A12,P01-4,Painting & coatings,Painting,2026-10,2027-02,2106000.0
+P01-A13,P01-5,Punch list & demob,General,2027-02,2027-05,1411000.0
+P02-A01,P02-1,Mobilization & track access,General,2025-08,2025-12,1622000.0
+P02-A02,P02-1,Site management,General,2025-08,2027-05,1586000.0
+P02-A03,P02-2,Elevator shafts excavation,Civil,2025-10,2026-03,3537000.0
+P02-A04,P02-2,Shaft structures,Concrete,2026-01,2026-04,3780000.0
+P02-A05,P02-2,Platform extensions,Concrete,2026-02,2026-07,3254000.0
+P02-A06,P02-3,Elevator installation,Elevator,2026-07,2026-10,5614000.0
+P02-A07,P02-3,Stair & canopy steel,Steel,2026-04,2026-09,2840000.0
+P02-A08,P02-4,Power & lighting,Electrical,2026-06,2026-12,3834000.0
+P02-A09,P02-4,Communications & PA,Electrical,2026-07,2027-01,1910000.0
+P02-A10,P02-4,Fire alarm,Electrical,2026-10,2027-01,1395000.0
+P02-A11,P02-5,ADA finishes & wayfinding,Architectural,2026-10,2027-02,1706000.0
+P02-A12,P02-5,Testing & commissioning,Commissioning,2026-10,2027-04,1447000.0
+P03-A01,P03-1,Mobilization & MPT,General,2025-11,2026-02,1635000.0
+P03-A02,P03-1,Site management,General,2025-11,2027-04,1307000.0
+P03-A03,P03-2,Water main replacement,Utilities,2026-01,2026-05,3686000.0
+P03-A04,P03-2,Sewer upgrades,Utilities,2026-03,2026-05,3362000.0
+P03-A05,P03-2,Electrical conduit,Electrical,2026-04,2026-08,1690000.0
+P03-A06,P03-3,Excavation & base,Civil,2026-05,2026-08,3711000.0
+P03-A07,P03-3,Curb & sidewalk,Concrete,2026-07,2026-11,3192000.0
+P03-A08,P03-3,Asphalt paving,Paving,2026-09,2027-01,3100000.0
+P03-A09,P03-4,Street lighting & signals,Electrical,2026-09,2027-01,2159000.0
+P03-A10,P03-4,Landscaping,Landscape,2026-12,2027-03,1070000.0
+P03-A11,P03-4,Punch list & demob,General,2027-01,2027-04,947000.0
+P04-A01,P04-1,Mobilization,General,2025-09,2026-02,2483000.0
+P04-A02,P04-1,Site management,General,2025-09,2027-08,2900000.0
+P04-A03,P04-2,Demolition & abatement,Demolition,2025-11,2026-05,4569000.0
+P04-A04,P04-2,Foundations,Concrete,2026-01,2026-06,5189000.0
+P04-A05,P04-2,Steel frame & roof,Steel,2026-04,2026-08,8727000.0
+P04-A06,P04-3,HVAC & ventilation,Mechanical,2026-07,2026-12,8037000.0
+P04-A07,P04-3,Electrical & EV charging,Electrical,2026-09,2026-12,9825000.0
+P04-A08,P04-3,Plumbing & fire protection,Mechanical,2026-07,2026-12,4565000.0
+P04-A09,P04-4,Interior fit-out,Architectural,2026-10,2027-04,5656000.0
+P04-A10,P04-4,Bus wash & lifts,Equipment,2026-11,2027-05,3878000.0
+P04-A11,P04-4,Testing & commissioning,Commissioning,2027-02,2027-07,3035000.0
+P05-A01,P05-1,Mobilization & MPT,General,2025-07,2025-12,3118000.0
+P05-A02,P05-1,Site management,General,2025-07,2027-08,3940000.0
+P05-A03,P05-2,Cofferdams & dewatering,Civil,2025-09,2026-02,5568000.0
+P05-A04,P05-2,Pier repairs,Concrete,2025-12,2026-06,7792000.0
+P05-A05,P05-2,Abutment reconstruction,Concrete,2026-01,2026-07,6658000.0
+P05-A06,P05-3,Steel girder replacement,Steel,2026-03,2026-10,15191000.0
+P05-A07,P05-3,Bearing replacement,Steel,2026-04,2026-11,3733000.0
+P05-A08,P05-3,Deck replacement,Concrete,2026-08,2026-12,13382000.0
+P05-A09,P05-4,Lighting & ITS,Electrical,2026-10,2027-03,5757000.0
+P05-A10,P05-4,Drainage,Civil,2026-08,2027-02,3969000.0
+P05-A11,P05-4,Paving & striping,Paving,2026-12,2027-05,4532000.0
+P05-A12,P05-4,Painting & coatings,Painting,2026-10,2027-04,4290000.0
+P05-A13,P05-5,Punch list & demob,General,2027-03,2027-08,2353000.0

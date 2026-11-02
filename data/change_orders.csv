@@ -1,0 +1,26 @@
+co_id,project_id,description,reason,trade,status,amount,submitted_date,approved_date
+CO-001,P01,Missing general work scope in contract drawings,Design Error,General,Approved,279000.0,2025-11-28,2025-12-24
+CO-002,P01,Undocumented utilities encountered during steel work,Unforeseen Condition,Steel,Approved,774000.0,2026-02-18,2026-03-29
+CO-003,P02,Missing general work scope in contract drawings,Design Error,General,Approved,570000.0,2026-07-07,2026-07-25
+CO-004,P02,Code / permit requirement change impacting steel work,Regulatory,Steel,Approved,637000.0,2026-02-21,2026-03-24
+CO-005,P02,Unforeseen subsurface conditions affecting electrical work,Unforeseen Condition,Electrical,Pending,222000.0,2025-09-04,
+CO-006,P03,Unforeseen subsurface conditions affecting paving work,Unforeseen Condition,Paving,Approved,265000.0,2026-08-26,2026-09-12
+CO-007,P03,Owner-requested upgrade to civil work,Owner Request,Civil,Approved,347000.0,2026-07-01,2026-08-01
+CO-008,P03,Added paving work scope requested by agency,Owner Request,Paving,Approved,478000.0,2026-02-27,2026-03-13
+CO-009,P04,Revised demolition work details after conflict found in field,Design Error,Demolition,Approved,893000.0,2026-06-25,2026-08-02
+CO-010,P04,Added mechanical work scope requested by agency,Owner Request,Mechanical,Approved,729000.0,2026-07-14,2026-07-31
+CO-011,P04,Owner-requested upgrade to steel work,Owner Request,Steel,Approved,296000.0,2026-02-22,2026-04-03
+CO-012,P04,Added equipment work scope requested by agency,Owner Request,Equipment,Approved,354000.0,2026-09-20,2026-10-04
+CO-013,P04,Added demolition work scope requested by agency,Owner Request,Demolition,Rejected,906000.0,2026-08-08,
+CO-014,P04,Undocumented utilities encountered during steel work,Unforeseen Condition,Steel,Approved,1025000.0,2026-04-04,2026-05-03
+CO-015,P04,Owner-requested upgrade to concrete work,Owner Request,Concrete,Pending,689000.0,2026-02-20,
+CO-016,P04,Added mechanical work scope requested by agency,Owner Request,Mechanical,Rejected,620000.0,2026-09-13,
+CO-017,P04,Owner-requested upgrade to architectural work,Owner Request,Architectural,Approved,215000.0,2026-09-11,2026-09-24
+CO-018,P04,Undocumented utilities encountered during general work,Unforeseen Condition,General,Approved,881000.0,2026-08-27,2026-09-11
+CO-019,P04,Added mechanical work scope requested by agency,Owner Request,Mechanical,Approved,1085000.0,2025-12-19,2026-03-01
+CO-020,P05,Undocumented utilities encountered during steel work,Unforeseen Condition,Steel,Approved,892000.0,2025-10-07,2025-12-02
+CO-021,P05,Owner-requested upgrade to painting work,Owner Request,Painting,Rejected,1454000.0,2025-10-09,
+CO-022,P05,Code / permit requirement change impacting concrete work,Regulatory,Concrete,Approved,807000.0,2026-07-28,2026-08-21
+CO-023,P05,Revised civil work details after conflict found in field,Design Error,Civil,Pending,1155000.0,2026-08-08,
+CO-024,P05,Added painting work scope requested by agency,Owner Request,Painting,Approved,189000.0,2026-08-18,2026-10-17
+CO-025,P05,Unforeseen subsurface conditions affecting general work,Unforeseen Condition,General,Pending,1084000.0,2026-03-12,

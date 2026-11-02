@@ -1,0 +1,24 @@
+wbs_id,project_id,wbs_code,wbs_name
+P01-1,P01,1,General Conditions
+P01-2,P01,2,Substructure
+P01-3,P01,3,Superstructure
+P01-4,P01,4,Systems & Finishes
+P01-5,P01,5,Closeout
+P02-1,P02,1,General Conditions
+P02-2,P02,2,Structural
+P02-3,P02,3,Vertical Transportation
+P02-4,P02,4,Systems
+P02-5,P02,5,Finishes & Closeout
+P03-1,P03,1,General Conditions
+P03-2,P03,2,Utilities
+P03-3,P03,3,Roadway
+P03-4,P03,4,Finishes & Closeout
+P04-1,P04,1,General Conditions
+P04-2,P04,2,Structure
+P04-3,P04,3,MEP
+P04-4,P04,4,Interiors & Closeout
+P05-1,P05,1,General Conditions
+P05-2,P05,2,Substructure
+P05-3,P05,3,Superstructure
+P05-4,P05,4,Systems & Finishes
+P05-5,P05,5,Closeout

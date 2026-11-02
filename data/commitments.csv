@@ -1,0 +1,39 @@
+commitment_id,project_id,vendor,trade,amount,award_date
+CM-001,P01,Metro Site Services,General,5740000.0,2026-02-14
+CM-002,P01,Bedrock Excavation,Civil,6060000.0,2026-02-23
+CM-003,P01,Keystone Concrete,Concrete,15281000.0,2026-03-22
+CM-004,P01,Harbor Steel Fabricators,Steel,11649000.0,2026-01-15
+CM-005,P01,Volt Electrical Contractors,Electrical,3327000.0,2025-11-11
+CM-006,P01,Blacktop Paving Co.,Paving,2740000.0,2026-02-19
+CM-007,P01,ShieldCoat Painting,Painting,2026000.0,2025-10-21
+CM-008,P02,Metro Site Services,General,3240000.0,2025-09-18
+CM-009,P02,Tri-State Earthworks,Civil,3917000.0,2025-10-08
+CM-010,P02,Keystone Concrete,Concrete,7736000.0,2025-10-01
+CM-011,P02,Vertex Elevator,Elevator,6080000.0,2026-01-14
+CM-012,P02,Ironbridge Steel Erectors,Steel,2775000.0,2025-12-23
+CM-013,P02,Volt Electrical Contractors,Electrical,7841000.0,2026-02-28
+CM-014,P02,Cornerstone Interiors,Architectural,1679000.0,2025-11-15
+CM-015,P02,Precision Commissioning,Commissioning,1576000.0,2025-12-28
+CM-016,P03,Metro Site Services,General,3794000.0,2025-12-13
+CM-017,P03,Underground Utility Partners,Utilities,6952000.0,2026-04-14
+CM-018,P03,Brightline Electric,Electrical,4012000.0,2026-01-14
+CM-019,P03,Bedrock Excavation,Civil,4051000.0,2025-12-13
+CM-020,P03,Keystone Concrete,Concrete,3510000.0,2026-05-19
+CM-021,P03,Blacktop Paving Co.,Paving,2948000.0,2026-02-12
+CM-022,P03,Greenway Landscaping,Landscape,1087000.0,2026-05-27
+CM-023,P04,Metro Site Services,General,5444000.0,2025-12-10
+CM-024,P04,Clearpath Demolition,Demolition,4439000.0,2026-05-02
+CM-025,P04,Keystone Concrete,Concrete,5187000.0,2026-05-05
+CM-026,P04,Harbor Steel Fabricators,Steel,9585000.0,2025-10-19
+CM-027,P04,Northstar Plumbing & Fire,Mechanical,12997000.0,2026-04-11
+CM-028,P04,Volt Electrical Contractors,Electrical,9755000.0,2025-09-28
+CM-029,P04,Cornerstone Interiors,Architectural,6164000.0,2025-10-13
+CM-030,P04,Fleet Equipment Systems,Equipment,4065000.0,2025-10-22
+CM-031,P04,Precision Commissioning,Commissioning,2960000.0,2025-11-19
+CM-032,P05,Metro Site Services,General,8976000.0,2025-11-27
+CM-033,P05,Tri-State Earthworks,Civil,9073000.0,2025-11-28
+CM-034,P05,Keystone Concrete,Concrete,30381000.0,2026-02-10
+CM-035,P05,Ironbridge Steel Erectors,Steel,18682000.0,2025-12-07
+CM-036,P05,Brightline Electric,Electrical,6084000.0,2025-09-21
+CM-037,P05,Blacktop Paving Co.,Paving,4913000.0,2025-11-02
+CM-038,P05,ShieldCoat Painting,Painting,4141000.0,2025-09-10
